@@ -1,0 +1,13 @@
+.main{
+    background-color: rgba(85, 201, 201, 0.445);
+}
+.border1{
+    width: 115px;
+    height: 115px;
+   border: 15px solid red;
+   padding-top: 70px;
+   padding-left: 70px;
+   padding-bottom: 70px;
+    padding-right: 70px;
+    
+}
